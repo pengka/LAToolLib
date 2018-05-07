@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LAToolLib_Example' do
+  pod 'LAToolLib', :path => '../'
+
+  target 'LAToolLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
