@@ -1,0 +1,6 @@
+framework module LAToolLib {
+  umbrella header "LAToolLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

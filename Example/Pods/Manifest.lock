@@ -1,0 +1,16 @@
+PODS:
+  - LAToolLib (0.1.0)
+
+DEPENDENCIES:
+  - LAToolLib (from `../`)
+
+EXTERNAL SOURCES:
+  LAToolLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LAToolLib: c633ca4166fa3463ea53b7d41e9a878980cbf098
+
+PODFILE CHECKSUM: 11b602baf8f3a3f7fda4018876a6f8fbcdd17fcc
+
+COCOAPODS: 1.5.0

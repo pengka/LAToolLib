@@ -7,6 +7,8 @@
 //
 
 #import "LAViewController.h"
+#import "LADateTool.h"
+
 
 @interface LAViewController ()
 
@@ -17,6 +19,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [LADateTool printfNow];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
